@@ -1,7 +1,13 @@
 ---
 title: "Window下安装HUGO"
 date: 2019-10-25T18:15:25+08:00
+lastmod: 2019-11-01T17:32:11+08:00
 draft: false
+keywords: []
+description: ""
+tags: ["Go","Hugo"]
+categories: ["学习"]
+author: "凯无"
 ---
 
 ### 第一篇文章献给HUGO
@@ -28,10 +34,13 @@ hugo的安装方法有很多，具体在官方或者百度、谷歌都能找到�
 
    - 直接用git将hugo仓库clone下来，然后解压放到$GOPATH下，到其目录下执行go install；
    - 也可以到$GOPATH目录下直接用以下命令安装
+
 		```
 		go get -v github.com/spf13/hugo
 		```
+
    - 可以使用 -u 参数执行 go get 用来更新 Hugo 的所有依赖。
+
 		```
 		go get -u -v github.com/spf13/hugo
 		```
@@ -121,7 +130,7 @@ git pull -u origin master
 ```
 不出意外的话 在浏览器输入BallBoom.github.io 地址就能访问到你的博客了
 
-后续新增文章话
+后续新增文章的话，用下面git 命令即可：
 ``` Bash
 --生成静态页面
 hugo --buildDrafts --baseUrl="https://BallBoom.github.io"

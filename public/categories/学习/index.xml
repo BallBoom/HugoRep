@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习 on Even - A super concise theme for Hugo</title>
+    <link>http://BallBoom.github.io/categories/%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 学习 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 25 Oct 2019 18:15:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://BallBoom.github.io/categories/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Window下安装HUGO</title>
+      <link>http://BallBoom.github.io/post/first/</link>
+      <pubDate>Fri, 25 Oct 2019 18:15:25 +0800</pubDate>
+      
+      <guid>http://BallBoom.github.io/post/first/</guid>
+      <description>第一篇文章献给HUGO 【介绍】 hugo是用GO语言写的一个静态网站生成器，静态页面的生成速度很快； 通过 Hugo 你可以快速搭建你的静态网站，比如博客</description>
+    </item>
+    
+  </channel>
+</rss>

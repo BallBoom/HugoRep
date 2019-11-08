@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>http://BallBoom.github.io/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 01 Nov 2019 17:32:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://BallBoom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go语言学习之旅</title>
+      <link>http://BallBoom.github.io/post/go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%97%85/</link>
+      <pubDate>Fri, 01 Nov 2019 17:32:11 +0800</pubDate>
+      
+      <guid>http://BallBoom.github.io/post/go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%97%85/</guid>
+      <description>介绍 自学Go也有一段时间，也没怎么做笔记，之前在看学习视频的时候，一边看一边记，算是做点总结吧，现在一点点的搬到博客上， 也算是对Hugo这个</description>
+    </item>
+    
+    <item>
+      <title>Window下安装HUGO</title>
+      <link>http://BallBoom.github.io/post/first/</link>
+      <pubDate>Fri, 25 Oct 2019 18:15:25 +0800</pubDate>
+      
+      <guid>http://BallBoom.github.io/post/first/</guid>
+      <description>第一篇文章献给HUGO 【介绍】 hugo是用GO语言写的一个静态网站生成器，静态页面的生成速度很快； 通过 Hugo 你可以快速搭建你的静态网站，比如博客</description>
+    </item>
+    
+  </channel>
+</rss>
